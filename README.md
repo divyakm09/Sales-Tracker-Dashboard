@@ -3,11 +3,11 @@ An interactive Excel Sales Tracker Dashboard to monitor regional sales, top sell
 👉 [Includes datasets, Excel dashboard, and monthly trends visualization]
 
 ## 🎯 Project Objective:
- To visualize overall sales and profit trends across different regions.
- To monitor on-time order completion and quantity sold.
- To track performance of sales managers and top sellers.
- To analyze sales by product categories and months.
- To help businesses make quick and informed decisions.
+ - To visualize overall sales and profit trends across different regions.
+ - To monitor on-time order completion and quantity sold.
+ - To track performance of sales managers and top sellers.
+ - To analyze sales by product categories and months.
+ - To help businesses make quick and informed decisions.
 
 ## Dataset Used:
 - <a href="https://github.com/divyakm09/Sales-Tracker-Dashboard/blob/main/sales%20data.xlsx"> Dataset </a>
@@ -41,20 +41,20 @@ An interactive Excel Sales Tracker Dashboard to monitor regional sales, top sell
 - ✅ Order Status Distribution (Completed, Pending, Cancelled)
 
 ## ✅📌 Key Questions(KPIs) (Derived from Dashboard):
-Q1) What is the total profit generated on a given date?
-Q2) How much profit is made by each region (East, West, North, South)?
-Q3) Which region has the highest total sales?
-Q4) What is the total quantity of units sold on time across all regions?
-Q5) What are the sales figures by product categories?
-Q6) Which month recorded the highest total sales?
-Q7) Who are the top-performing sales managers and how much have they contributed?
-Q8) Who are the top 4 sellers and what are their individual sales?
-Q9) What is the percentage distribution of order statuses (Completed, Pending, Cancelled)?
-Q10) What is the total sales trend over the months?
-Q11) Which region has the best on-time sales performance?
-Q12) Which customer types and payment types are contributing most to sales?
-Q13) How are sales distributed region-wise over time?
-Q14) Are most orders being completed on time or delayed/cancelled?
+- What is the total profit generated on a given date?
+- How much profit is made by each region (East, West, North, South)?
+- Which region has the highest total sales?
+- What is the total quantity of units sold on time across all regions?
+- What are the sales figures by product categories?
+- Which month recorded the highest total sales?
+- Who are the top-performing sales managers and how much have they contributed?
+- Who are the top 4 sellers and what are their individual sales?
+- What is the percentage distribution of order statuses (Completed, Pending, Cancelled)?
+- What is the total sales trend over the months?
+- Which region has the best on-time sales performance?
+- Which customer types and payment types are contributing most to sales?
+- How are sales distributed region-wise over time?
+- Are most orders being completed on time or delayed/cancelled?
   
 ## Dashboard Interaction
 - <a href="https://github.com/divyakm09/Sales-Tracker-Dashboard/blob/main/dashboard%20img.JPG"> View Dashboard <a>
