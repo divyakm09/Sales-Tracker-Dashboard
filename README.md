@@ -3,11 +3,11 @@ An interactive Excel Sales Tracker Dashboard to monitor regional sales, top sell
 👉 [Includes datasets, Excel dashboard, and monthly trends visualization]
 
 ## 🎯 Project Objective:
--To visualize overall sales and profit trends across different regions.
-- To monitor on-time order completion and quantity sold.
-- To track performance of sales managers and top sellers.
-- To analyze sales by product categories and months.
-- To help businesses make quick and informed decisions.
+ To visualize overall sales and profit trends across different regions.
+ To monitor on-time order completion and quantity sold.
+ To track performance of sales managers and top sellers.
+ To analyze sales by product categories and months.
+ To help businesses make quick and informed decisions.
 
 ## Dataset Used:
 - <a href="https://github.com/divyakm09/Sales-Tracker-Dashboard/blob/main/sales%20data.xlsx"> Dataset </a>
